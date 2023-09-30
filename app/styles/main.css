@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --un-border-opacity: 0;
+}
+
+main {
+  @apply max-w-2xl m-auto min-h-screen borde-1
+}
+
+header {
+  @apply font-custom h-30 flex items-center justify-between
+}
+
+header a:first-child {
+  @apply text-neutral-900 font-semibold
+}
+
+ul {
+  @apply inline-flex gap-6
+}
+
+a {
+  @apply decoration-none text-gray-400 font-medium
+}
+
+#appLanding {
+  @apply flex items-center justify-between min-h-xs
+}
+
+#appLanding h3 {
+  @apply font-heading font-extrabold text-3xl
+}
+
+#appLanding div {
+  position: relative;
+}
+
+#appLanding div span {
+  @apply absolute bottom-0 right-0
+}
+
+footer {
+  @apply flex items-center justify-center flex-col gap-4 font-heading text-xs text-gray-500
+}
+
+footer a {
+  @apply text-indigo-500
+}
+
+
+/* App bout */
+
+#appAbout {
+  @apply font-heading flex flex-col gap-4 max-w-lg m-auto mb-14
+}
+
+#othersApp {
+  @apply font-heading flex flex-col gap-4 max-w-lg m-auto mb-10
+}
+
+hr {
+  @apply w-1/2 m-auto mb-10
+}
