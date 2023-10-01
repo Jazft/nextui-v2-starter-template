@@ -22,7 +22,7 @@ Welcome to this Readme.md - This is a Starting Template for Deleveloper. Focus o
 
 
 
-## 🌵 Live Demo: [Go to the Website](https://nextui-v2-starter.vercel.app/)
+## 🌵 Live Demo: [Go to the Website](https://v2-nextui-starter.vercel.app/)
 
 
 ## ⚡ To run this locally: 
