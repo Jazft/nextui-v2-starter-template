@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  @apply flex items-center justify-center min-h-screen flex-col
+}
+
+main h1 {
+  @apply text-2xl font-bold mb-4
+}
+
+main p {
+  @apply text-gray-600
+}
+
+main b {
+  @apply text-gray-700
+}
