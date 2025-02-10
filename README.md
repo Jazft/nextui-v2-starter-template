@@ -3,8 +3,23 @@ Based on TailwindCSS and NextUI official docs.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/Vilictus/nextui-v2-starter-template) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Vilictus/nextui-v2-starter-template)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Vilictus/nextui-v2-starter-template)
+### ☁ Try it in the Cloud
 
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/Vilictus/nextui-v2-starter-template)
+
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-GitHub%20Codespaces-blue?logo=github)](https://codespaces.new/Vilictus/nextui-v2-starter-template)
+
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/Vilictus/nextui-v2-starter-template)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vilictus/nextui-v2-starter-template)
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/Vilictus/nextui-v2-starter-template)
+
+[![Open in Repl.it](https://replit.com/badge/github/Vilictus/nextui-v2-starter-template)](https://replit.com/github/Vilictus/nextui-v2-starter-template)
+
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/Vilictus/nextui-v2-starter-template)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Vilictus/nextui-v2-starter-template)
 
 ## 📄 About this Project
 
